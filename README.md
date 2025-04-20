@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/olamideakintayo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="olamideakintayo" height="30" width="40" /></a>
+<a href="https://codepen.io/divineolamide977" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="divineolamide977" height="30" width="40" /></a>
 <a href="https://twitter.com/kash_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kash_codes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/olamideakintayo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olamideakintayo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/olamide akintayo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olamide akintayo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
