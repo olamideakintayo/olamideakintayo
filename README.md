@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kash_codes" target="blank"><img src="https://img.shields.io/twitter/follow/kash_codes?logo=twitter&style=for-the-badge" alt="kash_codes" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Python and Java GUI**
+- 🌱 I’m currently learning **Java and Python**
 
 - 👯 I’m looking to collaborate on **Java Projects with more Algorithms**
 
